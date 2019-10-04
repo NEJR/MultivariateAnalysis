@@ -1,6 +1,7 @@
 # MultivariateAnalysis
 
-### !notification! This is not for Multivariable.
+### !notification!  This is not for Multivariable.
+### please move to LinearAnalysis repository
 
 #### This repository should include...
 
